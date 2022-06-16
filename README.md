@@ -1,18 +1,18 @@
 # MSA w/t Spring Cloud
 
-* Discovery Server
+## Discovery Server
 - Eureka https://github.com/TotoHyojunTak/msa_eureka
 
-* Config
-- CloudConfig https://github.com/TotoHyojunTak/msa_cloudconfig
-- MSA 대상 Application Yaml 정보 관리
+## Config
+- CloudConfig https://github.com/TotoHyojunTak/msa_cloudconfig <br/>
+cf) MSA 대상 Application Yaml 정보 관리
 
 - ConfigService https://github.com/TotoHyojunTak/msa_configservice
 
-* Gateway
+## Gateway
 - APIGateway https://github.com/TotoHyojunTak/msa_apigateway
 
-* Service
+## Service
 - User https://github.com/TotoHyojunTak/msa_userservice
 
 - Catalog https://github.com/TotoHyojunTak/msa_catalog
